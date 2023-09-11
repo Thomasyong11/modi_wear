@@ -7,9 +7,7 @@ Modi Wear is a cutting-edge fashion recommendation system that leverages the pow
 - **Final Project Blog Article**: [Read Here](https://medium.com/@akumyongt/modi-wear-redefining-shirt-customization-a99602a97548)
 - **Author(s) LinkedIn**: [Adjamkwalim](https://intranet.alxswe.com/projects/linkedin.com/in/adjamkwalim-akum-yong)
 
-<!--## Screenshots
-![Modi Wear App Screenshot 1](insert_screenshot_url_1_here)
-![Modi Wear App Screenshot 2](insert_screenshot_url_2_here)-->
+
 
 ## Installation
 To run Modi Wear locally, follow these steps:
@@ -35,5 +33,5 @@ Key features of Modi Wear's shirt customization platform include:
 - **Future Customization Services**: Stay tuned for upcoming features like customization, printing, and delivery services.
 
 Explore the "Modi Wear" platform to unleash your creativity and personalize your shirts like never before.
-Explore our [deployed site](https://www.modiwear.com](https://modiwear.netlify.app/) to experience Modi Wear in action.
+Explore our [deployed site](https://modiwear.netlify.app/) to experience Modi Wear in action.
 
